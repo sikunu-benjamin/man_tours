@@ -1,0 +1,14 @@
+{
+  "name": "bradley_courses",
+  "version": "1.0.0",
+  "description": "learn how to deploy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node run app.js"
+  },
+  "author": "sikunu bradley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
